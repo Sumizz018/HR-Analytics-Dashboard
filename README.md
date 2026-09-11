@@ -34,3 +34,4 @@ HR employee dataset containing employee-level information such as employee demog
     • Used interactive filtering to perform detailed employee-level analysis.
     • Converted raw HR data into an interactive dashboard for easier decision-making.
 
+![Dashboard Preview](https://github.com/Sumizz018/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
