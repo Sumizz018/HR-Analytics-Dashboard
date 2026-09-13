@@ -33,6 +33,7 @@ HR employee dataset containing employee-level information such as employee demog
 -   Charts and Tables – Provide detailed comparisons and make patterns and trends easier to understand.<br>
 
 • Business Impact & Insights : The dashboard enables HR teams to quickly identify workforce patterns and make informed decisions. It can help organizations understand employee distribution, compare departments, analyze salary patterns, monitor workforce characteristics, and identify areas requiring further investigation. Interactive filtering allows HR managers to explore specific employee groups and obtain insights without manually analyzing large datasets.<br>
+
 • Key Insights :<br>
 -   Identified workforce distribution across different departments and job roles.<br>
 -   Analyzed employee demographics to understand workforce composition.<br>
