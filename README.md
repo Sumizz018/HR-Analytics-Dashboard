@@ -14,11 +14,12 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.Data Source
-Source:Kaggle
+Source:Kaggle<br>
 HR employee dataset containing employee-level information such as employee demographics, departments, job roles, salary-related information, performance, and workforce attributes.
 
-• Business Problem : HR departments deal with large amounts of employee data, making it difficult to identify workforce trends and potential issues from raw data alone. Important information such as employee distribution, salary patterns, departmental performance, employee demographics, and workforce trends needs to be analyzed efficiently to support better HR decisions.
-• Goal of the Dashboard : The goal of this dashboard is to provide a centralized and interactive view of key HR metrics. It enables users to monitor workforce characteristics, compare departments and job roles, analyze employee-related trends, and identify areas that may require HR attention.
+### 5.	Features / Highlights
+• Business Problem : HR departments deal with large amounts of employee data, making it difficult to identify workforce trends and potential issues from raw data alone. Important information such as employee distribution, salary patterns, departmental performance, employee demographics, and workforce trends needs to be analyzed efficiently to support better HR decisions.<br>
+• Goal of the Dashboard : The goal of this dashboard is to provide a centralized and interactive view of key HR metrics. It enables users to monitor workforce characteristics, compare departments and job roles, analyze employee-related trends, and identify areas that may require HR attention.<br>
 • Walkthrough of Key Visuals : 
     • KPI Cards – Display important HR metrics such as total employees, average salary, employee count, and other key measures.
     • Department Analysis – Shows employee distribution across different departments and helps identify departments with higher or lower        workforce strength.
