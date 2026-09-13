@@ -6,12 +6,12 @@ HR Analytics Dashboard : Employee Insights & Workforce Analysis
 This project presents an interactive HR Analytics Dashboard developed using Power BI to analyze employee data and identify important workforce trends. The dashboard helps HR teams understand employee demographics, workforce distribution, job roles, salary patterns, employee performance, and other key HR metrics. The main purpose is to transform raw HR data into meaningful visual insights that support data-driven workforce management and decision-making.
 
 ### 3. Tech Stack
-The dashboard was built using the following tools and technologies.
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and                 aggregation.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+The dashboard was built using the following tools and technologies:<br>
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+•	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.Data Source
 Source:Kaggle
