@@ -5,6 +5,7 @@ HR Analytics Dashboard : Employee Insights & Workforce Analysis
 2. Short Description / Purpose
 This project presents an interactive HR Analytics Dashboard developed using Power BI to analyze employee data and identify important workforce trends. The dashboard helps HR teams understand employee demographics, workforce distribution, job roles, salary patterns, employee performance, and other key HR metrics. The main purpose is to transform raw HR data into meaningful visual insights that support data-driven workforce management and decision-making.
 
+3. Tech Stack
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
