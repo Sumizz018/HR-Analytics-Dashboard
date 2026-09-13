@@ -19,23 +19,24 @@ HR employee dataset containing employee-level information such as employee demog
 
 ### 5.	Features / Highlights
 • Business Problem : HR departments deal with large amounts of employee data, making it difficult to identify workforce trends and potential issues from raw data alone. Important information such as employee distribution, salary patterns, departmental performance, employee demographics, and workforce trends needs to be analyzed efficiently to support better HR decisions.<br>
+
 • Goal of the Dashboard : The goal of this dashboard is to provide a centralized and interactive view of key HR metrics. It enables users to monitor workforce characteristics, compare departments and job roles, analyze employee-related trends, and identify areas that may require HR attention.<br>
-• Walkthrough of Key Visuals : 
-    • KPI Cards – Display important HR metrics such as total employees, average salary, employee count, and other key measures.
-    • Department Analysis – Shows employee distribution across different departments and helps identify departments with higher or lower        workforce strength.
-    • Job Role Analysis – Provides insights into the number of employees across different job roles.
-    • Gender/Demographic Analysis – Helps understand workforce composition and employee demographics.
-    • Salary Analysis – Shows salary distribution and allows comparison across departments or job roles.
-    • Performance Analysis – Helps identify employee performance patterns and compare performance across different workforce segments.
-    • Interactive Slicers – Allow users to filter the dashboard by department, job role, gender, or other available employee attributes.
-    • Charts and Tables – Provide detailed comparisons and make patterns and trends easier to understand.
-• Business Impact & Insights : The dashboard enables HR teams to quickly identify workforce patterns and make informed decisions. It can help organizations understand employee distribution, compare departments, analyze salary patterns, monitor workforce characteristics, and identify areas requiring further investigation. Interactive filtering allows HR managers to explore specific employee groups and obtain insights without manually analyzing large datasets.
-• Key Insights :
-    • Identified workforce distribution across different departments and job roles.
-    • Analyzed employee demographics to understand workforce composition.
-    • Compared salary patterns across departments and employee categories.
-    • Identified departments or roles with relatively high or low employee counts.
-    • Used interactive filtering to perform detailed employee-level analysis.
-    • Converted raw HR data into an interactive dashboard for easier decision-making.
+• Walkthrough of Key Visuals :<br>
+    • KPI Cards – Display important HR metrics such as total employees, average salary, employee count, and other key measures.<br>
+    • Department Analysis – Shows employee distribution across different departments and helps identify departments with higher or lower        workforce strength.<br>
+    • Job Role Analysis – Provides insights into the number of employees across different job roles.<br>
+    • Gender/Demographic Analysis – Helps understand workforce composition and employee demographics.<br>
+    • Salary Analysis – Shows salary distribution and allows comparison across departments or job roles.<br>
+    • Performance Analysis – Helps identify employee performance patterns and compare performance across different workforce segments.<br>
+    • Interactive Slicers – Allow users to filter the dashboard by department, job role, gender, or other available employee attributes.<br>
+    • Charts and Tables – Provide detailed comparisons and make patterns and trends easier to understand.<br>
+• Business Impact & Insights : The dashboard enables HR teams to quickly identify workforce patterns and make informed decisions. It can help organizations understand employee distribution, compare departments, analyze salary patterns, monitor workforce characteristics, and identify areas requiring further investigation. Interactive filtering allows HR managers to explore specific employee groups and obtain insights without manually analyzing large datasets.<br>
+• Key Insights :<br>
+    • Identified workforce distribution across different departments and job roles.<br>
+    • Analyzed employee demographics to understand workforce composition.<br>
+    • Compared salary patterns across departments and employee categories.<br>
+    • Identified departments or roles with relatively high or low employee counts.<br>
+    • Used interactive filtering to perform detailed employee-level analysis.<br>
+    • Converted raw HR data into an interactive dashboard for easier decision-making.<br>
 
 ![Dashboard Preview](https://github.com/Sumizz018/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
